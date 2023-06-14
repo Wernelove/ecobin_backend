@@ -23,6 +23,10 @@ JSON no servidor web para leitura.
 
 ### `npm install nodemon`
 
+Para instalar a biblioteca nodemon que ira ficar compilando o projeto de forma continua.
+
+### `npm install mysql2`
+
 Para instalar a biblioteca mysql2 para que seja realizada conexao com o banco de dados MySQL.
 
 ### `yarn start` ou `npm start`
